@@ -17,5 +17,9 @@ public class Calculator {
 	{
 		System.out.println("multiplication");
 	}
+	public void div() 
+	{
+		System.out.println("division");
+	}
 
 }
