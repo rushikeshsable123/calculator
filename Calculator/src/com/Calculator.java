@@ -12,6 +12,9 @@ public class Calculator {
 
 		System.out.println("substraction");
 	}
-	
+	public void mult()
+	{
+		System.out.println("multiplication");
+	}
 
 }
