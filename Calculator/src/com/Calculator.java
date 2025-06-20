@@ -21,5 +21,10 @@ public class Calculator {
 	{
 		System.out.println("division");
 	}
+	public void div1() 
+	{
+		System.out.println("division");
+	}
+	
 
 }
