@@ -8,6 +8,10 @@ public class Calculator {
 		System.out.println("addition");
 	}
 	
+	public void add1()
+	{
+		System.out.println("addition111");
+	}
 	public void sub()
 	{
 
